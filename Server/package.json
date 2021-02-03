@@ -1,0 +1,7 @@
+{
+  "name": "doby_server",
+  "version": "1.0.0",
+  "description": "전동스쿠터 공유 서비스 Server",
+  "main": "index.js",
+  "license": "MIT"
+}
